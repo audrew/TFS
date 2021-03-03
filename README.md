@@ -1,6 +1,6 @@
-# Tool For Soul
-react native hybrid app
+# TFS
+react native android ios app
 
 updated with latest ndk and gradle
 
-"react-native run-android"
+react-native run-android
