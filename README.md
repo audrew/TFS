@@ -14,3 +14,7 @@ or
 `npm run ios`
 
 `npm start`
+
+excluse commands
+
+`npm i express body-parser mangoose concurrently`
