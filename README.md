@@ -15,6 +15,8 @@ or
 
 `npm start`
 
-excluse commands
+exclusive commands
 
-`npm i express body-parser mangoose concurrently`
+`npm i express body-parser mongoose concurrently`
+
+
