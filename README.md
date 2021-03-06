@@ -1,6 +1,16 @@
 # Tool For Soul
-react native hybrid app
+react native android / ios app
 
-updated with latest ndk and gradle
+updated with latest ndk and gradle 
 
-"react-native run-android"
+connected with mangoose
+
+`npm install`
+
+`npm run android`
+
+or 
+
+`npm run ios`
+
+`npm start`
