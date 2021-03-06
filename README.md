@@ -21,4 +21,6 @@ exclusive commands
 
 `npm i -D nodemon`
 
+`npm i bootstrap reactstrap react-transition-group`
+
 
