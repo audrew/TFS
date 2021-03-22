@@ -10,7 +10,7 @@ const Header = ({title}) => {
 };
 
 Header.defaultProps = {
-  title: 'My App',
+  title: 'My App!',
 };
 
 const styles = StyleSheet.create({
